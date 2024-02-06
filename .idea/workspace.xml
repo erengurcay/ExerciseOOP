@@ -5,14 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccda6975-780d-4e03-8f02-2f1d6f709c5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAlistirma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IdmanProgramı/Idman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/IdmanProgramı/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calisanlar/Calisan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calisanlar/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calisanlar/Yazilimci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Calisanlar/Yonetici.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,5 +49,16 @@
       <updated>1707225897191</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
