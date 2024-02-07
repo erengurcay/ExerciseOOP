@@ -12,7 +12,7 @@ public class Main {
         System.out.print("Yapacağınız işlemi seçiniz (paraçekme ya da parayatırma): ");
         String islem = scanner.nextLine();
 
-        System.out.print("Çekilecek tutar: ");
+        System.out.print("Tutar giriniz: ");
         int miktar = scanner.nextInt();
 
         if (islem.equals("paraçekme")) {

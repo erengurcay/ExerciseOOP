@@ -5,10 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccda6975-780d-4e03-8f02-2f1d6f709c5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/BakiyeIslemleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/DosyaIslemleri.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/User.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dosyalamaİslemi/DosyaIslemleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/DosyaIslemleri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dosyalamaİslemi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/veriler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/veriler.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
