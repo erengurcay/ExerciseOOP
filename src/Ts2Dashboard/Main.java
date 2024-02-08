@@ -9,8 +9,13 @@ public class Main {
         // Kullanıcı adını al
         System.out.print("Kullanıcı adını giriniz: ");
         String kullaniciAdi = scanner.nextLine();
+        System.out.print("1 = Gök Sandığı \n"+
+                        "2 = Toprak Sandığı \n"+
+                            "3 = Cp Sandığı\n"+
+                            "4 = Binek\n"+
+                            "5 = Boş Drop\n");
 
-        String[] dropTurleri = {"Gök sandığı drobu", "Toprak sandığı drobu", "Cp drobu", "Binek drobu", "Boş drop"};
+        int[] dropTurleri = {1, 2, 3, 4, 5};
 
         // Kullanıcı nesnesini oluştur
         User user = new User(kullaniciAdi, dropTurleri.length);
@@ -18,7 +23,7 @@ public class Main {
         // Her bir drop türü için kullanıcıdan sayı al
         for (int i = 0; i < dropTurleri.length; i++) {
             Drop drop = new Drop(dropTurleri[i]);
-            System.out.print(drop.getName() + " için bir sayı giriniz: ");
+            System.out.print(drop.getId() + " için bir sayı giriniz: ");
             int sayi = scanner.nextInt();
             drop.setNumber(sayi);
             user.setDrop(i, drop);
@@ -28,7 +33,7 @@ public class Main {
         System.out.println("Kullanıcı adı: " + user.getUserName());
         for (int i = 0; i < dropTurleri.length; i++) {
             Drop drop = user.getDrop(i);
-            System.out.println(drop.getName() + " için girilen sayı: " + drop.getNumber());
+            System.out.println(drop.getId() + " için girilen sayı: " + drop.getNumber());
         }
 
         scanner.close();

@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ccda6975-780d-4e03-8f02-2f1d6f709c5b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Drop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/Beyblade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/BeybladeFabrikasi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/Draciel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/Dragon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/Dranza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/Drayga.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BeybladeProgrami/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HafizaOyunu/Kart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HafizaOyunu/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Dropİslemleri.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dosyalamaİslemi/DosyaIslemleri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/DosyaIslemleri.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dosyalamaİslemi/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dosyalamaİslemi/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/veriler.txt" beforeDir="false" afterPath="$PROJECT_DIR$/veriler.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ts2Dashboard/Drop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Drop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ts2Dashboard/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ts2Dashboard/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

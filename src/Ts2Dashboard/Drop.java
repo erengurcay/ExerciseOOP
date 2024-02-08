@@ -1,14 +1,14 @@
 package Ts2Dashboard;
 class Drop {
-    private String name;
+    private int id;
     private int number;
 
-    public Drop(String name) {
-        this.name = name;
+    public Drop(int id) {
+        this.id = id;
     }
 
-    public String getName() {
-        return name;
+    public int getId() {
+        return id;
     }
 
     public int getNumber() {
